@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E08BE7F7-C814-4F7F-9B7C-834CCA20C1A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Postcard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FFFA8F3B4CAD9011203968158E95D31C8AAA41F8</key>
+		<string>github.com:alcedo/bitfountain.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>postcard/Postcard/Postcard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FFFA8F3B4CAD9011203968158E95D31C8AAA41F8</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:alcedo/bitfountain.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFFA8F3B4CAD9011203968158E95D31C8AAA41F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFFA8F3B4CAD9011203968158E95D31C8AAA41F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bitfountain</string>
+		</dict>
+	</array>
+</dict>
+</plist>
